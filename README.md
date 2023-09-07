@@ -9,7 +9,7 @@
 
 #### 💻 &nbsp; About Me :
 I am a Full Stack Developer & open source tech enthusiast from India.
-- I’m working as a Full Stack Developer and building large scale web applications.
+- Building large scale web applications.
 - Sharing knowledge through mentoring.
 
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
