@@ -7,24 +7,12 @@
   </div>
 </div>
 
-#### 💻 &nbsp; About Me :
+#### About Me :
 I am a Full Stack Developer & open source tech enthusiast from India.
 - Building large scale web applications.
 - Sharing knowledge through mentoring.
 
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
- #### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
-<!---
-<a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
-</a>
-<a href="https://github.com/sudheerj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
-</a> -->
-
-#### :hammer_and_wrench: Languages and Tools :
+#### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -51,5 +39,4 @@ I am a Full Stack Developer & open source tech enthusiast from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!--- #### :writing_hand: Blog Posts :
-**WebSite:** [iliyas.vercel.app](https://iliyas.vercel.app) -->
+**WebSite:** [iliyas.vercel.app](https://iliyas.vercel.app)
