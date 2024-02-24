@@ -8,7 +8,7 @@
 </div>
 
 #### About Me :
-I am a Full Stack Developer & open source tech enthusiast from India.
+I'm a Software Engineer & open source tech enthusiast from India.
 - Building large scale web applications.
 - Sharing knowledge through mentoring.
 
@@ -41,4 +41,4 @@ I am a Full Stack Developer & open source tech enthusiast from India.
 <br/>
 <br/>
 
-**WebSite:** [iliyas.vercel.app](https://iliyas.vercel.app)
+**WebSite:** [iliyas.dev](https://iliyas.dev)
