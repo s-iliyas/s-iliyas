@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7A28CB&center=true&vCenter=true&random=false&width=435&lines=HHi+there%2C+I'm+Iliyas+Shaik!" alt="Typing SVG" />
   
-  <p>Full-Stack Developer | Python & JavaScript Expert | Problem Solver</p>
+  <p>Software Engineer | Full-Stack Developer | Python & JavaScript Expert | Problem Solver</p>
 
   [![Website](https://img.shields.io/badge/Portfolio-iliyas.in-7A28CB?style=for-the-badge&logo=web&logoColor=white)](https://iliyas.in)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-iliyas/)
